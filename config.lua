@@ -21,7 +21,9 @@ Config.TheBlips = {
     { title = "Police Station", colour = 0, id = 137, vector3 = vector3(5400, -3464, 10) },
     { title = "Police Station", colour = 0, id = 137, vector3 = vector3(4808, -3521, 10) },
     { title = "Police Station", colour = 0, id = 137, vector3 = vector3(3964, -3490, 3) },
+    { title = "Police Station", colour = 0, id = 137, vector3 = vector3(3471, -2979, 22) },
     { title = "Police Station", colour = 0, id = 137, vector3 = vector3(4264, -1988, 24) },
+
 
     --Hospital
     { title = "Hospital", colour = 0, id = 61, vector3 = vector3(6395, -3058, 34) },
