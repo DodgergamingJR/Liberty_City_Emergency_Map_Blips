@@ -23,6 +23,9 @@ ensure Liberty_City_Emergency_Map_Blips
 
 There's a config file to add or remove Blips
 
+## Example
+![Five_M Version](example/Five_M.png)
+
 ## Credits
 
 * [Mehdi-MMO mmo-smallresources](https://github.com/Mehdi-MMO/mmo-smallresources) - Based On This Script
@@ -43,6 +46,9 @@ There's a config file to add or remove Blips
 - Police_Station_Blips = true
 - Hospital_Blips = true
 - Fire_Station_Blips = true
+
+## Example
+![Singleplayer Version](example/Singleplayer.png)
 
 ## To Do
 - Replace "Hot Property" Name with "Firestation"
