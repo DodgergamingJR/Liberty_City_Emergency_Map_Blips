@@ -1,7 +1,7 @@
 # Liberty_City_Emergency_Map_Blips
 Standalone Script Created By - DodgergamingJR
 
-## Five M Version 
+# Five M Version 
 
 ## Features
 * All Police Stations
@@ -28,7 +28,7 @@ There's a config file to add or remove Blips
 * [Mehdi-MMO mmo-smallresources](https://github.com/Mehdi-MMO/mmo-smallresources) - Based On This Script
 
 
-## Singleplayer Version 
+# Singleplayer Version 
 
 ## Installation
 
