@@ -1,4 +1,4 @@
-# Liberty_City_Emergency_Map_Blips
+# Liberty_City_Emergency_Map_Blips v1.1.0
 Standalone Script Created By - DodgergamingJR
 
 # Five M Version 
@@ -52,3 +52,7 @@ There's a config file to add or remove Blips
 
 ## To Do
 - Replace "Hot Property" Name with "Firestation"
+
+## Changelog
+- v1.0.0 - Five M 
+- v1.1.0 - Singleplayer Added
