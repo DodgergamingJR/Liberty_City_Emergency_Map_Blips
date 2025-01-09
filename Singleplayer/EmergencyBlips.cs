@@ -78,7 +78,7 @@ public class BlipsCreator : Script {
     List<Blip> _modBlips;
     static Blip FacilityBlip;
     public BlipsCreator () {
-        IniSettings = ScriptSettings.Load ("scripts\\AddBlips.ini");
+        IniSettings = ScriptSettings.Load ("scripts\\EmergencyBlips.ini");
         GPSColour = IniSettings.GetValue<bool> ("General", "GPS_Colour", true);
         GPSSprite = IniSettings.GetValue<bool> ("General", "GPS_Sprite", true);
         MODActive = IniSettings.GetValue<bool> ("General", "MODActive", true);
