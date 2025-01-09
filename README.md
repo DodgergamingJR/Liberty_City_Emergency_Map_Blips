@@ -53,6 +53,6 @@ There's a config file to add or remove Blips
 ## To Do
 - Replace "Hot Property" Name with "Firestation"
 
-## Changelog
+## Change_log
 - v1.0.0 - Five M 
 - v1.1.0 - Singleplayer Added
