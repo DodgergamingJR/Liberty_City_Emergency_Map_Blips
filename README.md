@@ -1,4 +1,4 @@
-# Liberty_City_Emergency_Map_Blips v1.1.0
+# Liberty_City_Emergency_Map_Blips - v1.1.0
 Standalone Script Created By - DodgergamingJR
 
 # Five M Version 
