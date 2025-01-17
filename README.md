@@ -1,4 +1,4 @@
-# Liberty_City_Emergency_Map_Blips - v1.1.0
+# Liberty_City_Emergency_Map_Blips - v1.1.1
 Standalone Script Created By - DodgergamingJR
 
 # Five M Version 
@@ -33,7 +33,23 @@ There's a config file to add or remove Blips
 
 # Singleplayer Version 
 
-## Installation
+## Installation Automatically - OIV
+
+- Download the Scripthook and ScriptHookVDotNet
+
+- Download Zip
+- Unzip File
+- Launch OpenIV - Click Open Package Installer
+- Go to directory where the unzipped download is
+- Open Folder Of Singleplayer
+- Open Automatic Installation - OIV Folder
+- Open the OIV File
+- Click Install
+- Make sure to select location to install as the "mods" folder
+- Once Installed Successfully close Package installer window
+- Launch GTA V
+
+## Installation Manual
 
 - Download the Scripthook and ScriptHookVDotNet
 - Create a Script Folder in your GTA V Directory
@@ -56,3 +72,4 @@ There's a config file to add or remove Blips
 ## Change_log
 - v1.0.0 - Five M 
 - v1.1.0 - Singleplayer Added
+- v1.1.1 - Singleplayer Automatic OIV File Added
