@@ -1,4 +1,4 @@
-# Liberty_City_Emergency_Map_Blips - v1.1.1
+# Liberty_City_Emergency_Map_Blips - v1.2.0
 Standalone Script Created By - DodgergamingJR
 
 # Five M Version 
@@ -33,9 +33,9 @@ There's a config file to add or remove Blips
 
 # Singleplayer Version 
 
-## Installation Automatically - OIV
+## Installation Automatically - OIV [RECOMMENDED NIGHTLY BUILD]
 
-- Download the Scripthook and ScriptHookVDotNet
+- Download the ScripthookV and All ScriptHookVDotNet Nightly Files from [ScriptHookV](http://www.dev-c.com/gtav/scripthookv/) and [ScriptHookVDotNet](https://github.com/scripthookvdotnet/scripthookvdotnet-nightly/releases/tag/v3.7.0-nightly.13).
 
 - Download Zip
 - Unzip File
@@ -45,26 +45,35 @@ There's a config file to add or remove Blips
 - Open Automatic Installation - OIV Folder
 - Open the OIV File
 - Click Install
-- Make sure to select location to install as the "mods" folder
+- Make sure to select location to install as the "game" folder
 - Once Installed Successfully close Package installer window
 - Launch GTA V
 
 ## Installation Manual
 
-- Download the Scripthook and ScriptHookVDotNet
-- Create a Script Folder in your GTA V Directory
-- Place Files Inside Script Folder
+- Download the Scripthook and ScriptHookVDotNet Nightly
+- Drag Script folder inside of GTA V directory
 
-## Configuration
+## Configuration - EmergencyBlips.ini
 
-- There's a config file to add or remove Blips by Setting True/False
+- There's a config file to : 
+
+- add or remove Blips by Setting True/False
 
 - Police_Station_Blips = true
 - Hospital_Blips = true
 - Fire_Station_Blips = true
 
+
+- Change Icon Color
+
+- PoliceBlipColor = Blue 						
+- HospitalBlipColor = White 				
+- FireBlipColor = Red
+
+
 ## Example
-![Singleplayer Version](example/Singleplayer.png)
+![Singleplayer Version](example/Singleplayer_New.png)
 
 ## To Do
 - Replace "Hot Property" Name with "Firestation"
@@ -73,3 +82,4 @@ There's a config file to add or remove Blips
 - v1.0.0 - Five M 
 - v1.1.0 - Singleplayer Added
 - v1.1.1 - Singleplayer Automatic OIV File Added
+- v1.2.0 - Singleplayer Redone as Nightly Build + Fixed Fire Station Name for Nightly Build
