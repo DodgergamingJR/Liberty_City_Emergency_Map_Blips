@@ -35,7 +35,8 @@ There's a config file to add or remove Blips
 
 ## Installation Automatically - OIV [RECOMMENDED NIGHTLY BUILD]
 
-- Download the ScripthookV and All ScriptHookVDotNet Nightly Files from [ScriptHookV](http://www.dev-c.com/gtav/scripthookv/) and [ScriptHookVDotNet](https://github.com/scripthookvdotnet/scripthookvdotnet-nightly/releases/tag/v3.7.0-nightly.13).
+- Download the [ScriptHookV](http://www.dev-c.com/gtav/scripthookv/) and [ScriptHookVDotNet-Nightly](https://github.com/scripthookvdotnet/scripthookvdotnet-nightly/releases/tag/v3.7.0-nightly.13).
+- Specifically needs ScriptHookVDotNet3
 
 - Download Zip
 - Unzip File
