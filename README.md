@@ -76,7 +76,6 @@ There's a config file to add or remove Blips
 ![Singleplayer Version](example/Singleplayer_New.png)
 
 ## To Do
-- Replace "Hot Property" Name with "Firestation"
 
 ## Change_log
 - v1.0.0 - Five M 
